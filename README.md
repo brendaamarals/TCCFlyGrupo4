@@ -1,4 +1,4 @@
-# 🪂 Passo Firme — Previsão de Evasão na Fly Educação
+# Projeto Passo Firme — Previsão de Evasão na Fly Educação
 
 > **Uso de dados para identificar o risco de evasão na Fly Educação antes que ele aconteça.**
 
