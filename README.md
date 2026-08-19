@@ -1,21 +1,20 @@
 # Projeto Passo Firme — Previsão de Evasão na Fly Educação
 
-> **Uso de dados para identificar o risco de evasão na Fly Educação antes que ele aconteça.**
+> **Uso de dados para identificar o risco de evasão na ONG Fly Educação antes que ele aconteça.**
 
 Modelo preditivo de potencial de empregabilidade e mobilidade financeira para egressas da Fly Educação: um modelo que identifica quem tem mais risco de evadir, **para agir antes**.
 
 **Grupo Ada Lovelace** — Brenda Amaral · Fernanda da Silva · Nadiveth Duno · Profana Buzato · Sheilliane Santos · Vicência Vitória Souza
-**Orientadora:** Andressa Freires · Turma Fly · diversiData · agosto/2026
-
+**Orientadora:** Andressa Freires · Turma Fly 23 · TCC apresentado em setembro 2026
 ---
 
-## 📌 Contexto
+## Contexto
 
-A evasão escolar é um dos principais desafios da educação brasileira e está associada a diversos fatores econômicos, sociais e demográficos — renda familiar, região de residência, gênero, raça/cor, acesso a equipamento e internet, sobrecarga de trabalho e cuidado, entre outros.
+A evasão escolar é um dos principais desafios da educação brasileira e está associada a diversos fatores econômicos, sociais e demográficos, como renda familiar, região de residência, gênero, raça/cor, acesso a equipamentos e internet, sobrecarga de trabalho, falta de rede de apoio e cuidado, entre outros.
 
-O **Passo Firme** parte de uma constatação central: quem desiste de estudar raramente o faz por falta de vontade, mas pelo **acúmulo de obstáculos** — cansaço do trabalho, aperto financeiro, isolamento e questões de saúde mental. A proposta une tecnologia e apoio humano: modelos preditivos em Python identificam estudantes em risco de evasão, e uma camada de IA aciona a rede de acolhimento da ONG (mentoria, escuta ativa, suporte socioemocional) **antes que a desistência aconteça**.
+O projeto **Passo Firme** parte de uma constatação central: quem desiste de estudar raramente o faz por falta de vontade, mas pelo **acúmulo de obstáculos** — cansaço do trabalho, aperto financeiro, isolamento e questões de saúde mental. A proposta une tecnologia e apoio humano: modelos preditivos em Python identificam estudantes em risco de evasão, e uma camada de IA aciona a rede de acolhimento da ONG (mentoria, escuta ativa, suporte socioemocional) **antes que a desistência aconteça**.
 
-Diferente de outros projetos, aqui o "cliente" é a própria **Fly Educação**. O perfil das inscritas — maioria preta e parda, escolarizada e jovem-adulta (78% pretas + pardas) — já é insumo para relatório institucional e captação de recursos. A entrega de ouro do modelo é uma **lista de fatores de risco acionáveis**: se computador/internet pesarem → empréstimo de equipamento; se horário pesar → turmas alternativas; se confiança inicial pesar → mentoria reforçada nas primeiras semanas.
+Diferente de outros projetos, aqui o "cliente" é a própria **Fly Educação**, organização que ofereceu o curso que tem como projeto final justamente este repositório. 
 
 **Pergunta principal:** Como fatores socioeconômicos e demográficos influenciam a evasão escolar e de que forma uma IA orientadora pode auxiliar estudantes em situação de vulnerabilidade por meio do acesso a informações sobre programas de apoio e permanência?
 
